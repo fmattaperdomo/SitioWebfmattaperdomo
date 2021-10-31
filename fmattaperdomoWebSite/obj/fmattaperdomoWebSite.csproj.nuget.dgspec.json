@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\fmattaperdomo\\personal\\platzi\\azure\\projects\\fmattaperdomoWebSite\\fmattaperdomoWebSite.csproj": {}
+    "C:\\fmattaperdomo\\personal\\platzi\\azure\\projects\\SitioWebfmattaperdomo\\fmattaperdomoWebSite\\fmattaperdomoWebSite.csproj": {}
   },
   "projects": {
-    "C:\\fmattaperdomo\\personal\\platzi\\azure\\projects\\fmattaperdomoWebSite\\fmattaperdomoWebSite.csproj": {
+    "C:\\fmattaperdomo\\personal\\platzi\\azure\\projects\\SitioWebfmattaperdomo\\fmattaperdomoWebSite\\fmattaperdomoWebSite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\fmattaperdomo\\personal\\platzi\\azure\\projects\\fmattaperdomoWebSite\\fmattaperdomoWebSite.csproj",
+        "projectUniqueName": "C:\\fmattaperdomo\\personal\\platzi\\azure\\projects\\SitioWebfmattaperdomo\\fmattaperdomoWebSite\\fmattaperdomoWebSite.csproj",
         "projectName": "fmattaperdomoWebSite",
-        "projectPath": "C:\\fmattaperdomo\\personal\\platzi\\azure\\projects\\fmattaperdomoWebSite\\fmattaperdomoWebSite.csproj",
+        "projectPath": "C:\\fmattaperdomo\\personal\\platzi\\azure\\projects\\SitioWebfmattaperdomo\\fmattaperdomoWebSite\\fmattaperdomoWebSite.csproj",
         "packagesPath": "C:\\Users\\FMATTA\\.nuget\\packages\\",
-        "outputPath": "C:\\fmattaperdomo\\personal\\platzi\\azure\\projects\\fmattaperdomoWebSite\\obj\\",
+        "outputPath": "C:\\fmattaperdomo\\personal\\platzi\\azure\\projects\\SitioWebfmattaperdomo\\fmattaperdomoWebSite\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
